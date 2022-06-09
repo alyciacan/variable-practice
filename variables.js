@@ -1,7 +1,10 @@
-age = 34;
-numKids = 2;
-yearsMarried = 14;
 
-happy = true
-hungry = true
-cold = false
+//These are all variables that describe my current status:
+var age = 34;
+var numKids = 2;
+var yearsMarried = 14;
+
+//These are all variables that describe my current status:
+var happy = true
+var hungry = true
+var cold = false
